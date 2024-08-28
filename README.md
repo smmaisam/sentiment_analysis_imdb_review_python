@@ -18,3 +18,4 @@ This project performs sentiment analysis on movie reviews from the IMDb dataset.
 ### Supervised Machine Learning
 - Implemented multiple models
 - Cross-validation and hyper-parametric tuning performed
+- 
